@@ -727,6 +727,8 @@ h1{
   display: flex;
   width: 334px;
   justify-content: center;
+  margin-top: 20px;
+  padding-top: 20px;
 
 }
 
@@ -761,7 +763,7 @@ margin-top: 100px;
   display: none;
 }
 iframe {
-width: 463px;
+width: 334px;
 height: 197px;
 border-radius: 15px;
 position: absolute;
@@ -782,7 +784,11 @@ flex-wrap: wrap;
 background-color: #0020f4;
 width: 100%;
 }
+.mapouter{
+  width: 334px;
+}
 
+}
 
 
 
